@@ -1,4 +1,8 @@
 
+
+// Define -> 
+// In JavaScript, hoisting is a behavior where variable and function declarations are moved to the top of their scope before code execution.
+//  This means you can use a variable or function before it's declared in your code.
 getName();
 console.log(x);
 
