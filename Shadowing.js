@@ -99,7 +99,19 @@
 
 // Illegal Shadowing
 // let a = 20;
-//   {
+//    {
 //     var a = 20;
-//   }
+//    }
 // Identifier 'a' has already been declared.
+
+// U can shadow let using let 
+//  let a = 20;
+//   {
+//     let a = 20;
+//   }
+
+// It is also valid .
+//   var a = 20;
+//    {
+//     var a = 20;
+//    }
